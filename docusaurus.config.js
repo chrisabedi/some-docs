@@ -2,7 +2,7 @@ module.exports = {
   title: "some documentation",
   tagline: 'repo for software concepts and related notes',
   url: 'https://chrisabedi.github.io',
-  baseUrl: '/',
+  baseUrl: '/some-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
